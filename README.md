@@ -84,7 +84,7 @@ python web_scraper.py
 ---
 
 ## 🔗 GitHub Repository
-(Add your repository link here)
+(https://github.com/Tharun22K/Codveda-Python-Internship)
 
 ---
 
