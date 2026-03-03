@@ -1,0 +1,8 @@
+try:
+    filename = input("Enter file name: ")
+    with open(filename, "r") as file:
+        content = file.read()
+        words = content.split()
+        print("Total words:", len(words))
+except FileNotFoundError:
+    print("File not found!")
